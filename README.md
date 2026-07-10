@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Lalita Gupta 👋</h1>
 
-<h3 align="center">Data Analyst · MS Computer Science @ NYU Courant · New York</h3>
+<h3 align="center">MS Computer Science @ NYU Courant · New York</h3>
+
+<!-- <p align= "center"> I like problems that feel like puzzles — algorithms, simulation, and pulling structure out of messy data and signals. </p> -->
 
 <p align="center">
   <a href="https://linkedin.com/in/lalita-gupta">
@@ -18,11 +20,11 @@
 
 ### 🙋‍♀️ About me
 
-- 🔭 Currently building: **[NYC Airbnb Market Analysis](https://github.com/Lalita-Gupta/nyc-airbnb-analysis)** — Python, SQL, Tableau
-- 🎓 MS Computer Science @ **NYU Courant** (GPA 3.6) — Database Systems, ML, Computer Vision
-- 🚀 Shipped a **production data platform** for IIT Roorkee Virtual Labs — live on Streamlit Cloud
-- ⚡ Fun fact: I ran **1,000,000 game simulations** to statistically prove which AI strategy wins at Tic-Tac-Toe
-- 💬 Ask me about: **SQL, Python data pipelines, Tableau dashboards, statistical analysis**
+- 🎓 MS Computer Science @ **NYU Courant** (GPA 3.6) — Database Systems, ML, Computer Vision, Algorithms
+- 🧩 I came up through **competitive programming** (CodeChef, HackerRank 5★, Facebook Hacker Cup qualifier) and still love algorithmic problem-solving
+- 🎲 Favorite thing I've built: a **~1,000,000-game simulations - Monte Carlo study** to statistically prove which AI strategy actually wins at m,n,k Tic-Tac-Toe
+- 📈 Also **deployed** a bearing-fault-detection tool that turns raw sensor signals into fault classifications for IIT Roorkee Virtual Labs — live on Streamlit Cloud
+- 💬 Ask me about: **SQL, Python data pipelines, , algorithms, SQL, simulation, statistical/signal analysis, Tableau dashboards**
 - 📍 New York, NY · Available immediately for Data Analyst roles
 
 ---
@@ -31,9 +33,9 @@
 
 | Project | What I did | Tools | Links |
 |---------|-----------|-------|-------|
-| **NYC Airbnb Market Analysis** | Cleaned 49K+ listings, wrote 5 SQL queries (window functions, CTEs), built interactive Tableau dashboard — found Manhattan prices 35% above Brooklyn with only 30% availability | Python · SQL · Pandas · Tableau · SQLite | [GitHub](https://github.com/Lalita-Gupta/nyc-airbnb-analysis) · [Live Dashboard](https://public.tableau.com/views/NYC-Airbnb-Market-Analysis-Lalita-Gupta/NYCAirbnbMarketAnalysisInteractiveDashboard) |
 | **Bearing Fault Detection Platform** | Production Streamlit app for IIT Roorkee Virtual Labs — 8-feature statistical extraction pipeline (Mean, RMS, Kurtosis, Shannon Entropy), 9 colorization modes, 10x NumPy optimization | Python · Streamlit · NumPy · OpenCV · Pandas | [GitHub](https://github.com/Lalita-Gupta/Simulation-for-Bearing-Fault-Detection) · [Live App](https://simulation-model-for-bearing-fault-detection.streamlit.app/) |
 | **AI Strategy Analysis** | 1,000 simulations × 1,000 games = 1M games per scenario across 9 board-AI matchups — strategic-blocking AI won 84.3% vs greedy AI (14.2%), 92.9% vs random baseline | Python · NumPy · Monte Carlo Simulation | [GitHub](https://github.com/Lalita-Gupta/m-n-k-Tic-Tac-Toe-against-AI) |
+| **NYC Airbnb Market Analysis** | Cleaned 49K+ listings, wrote 5 SQL queries (window functions, CTEs), built interactive Tableau dashboard — found Manhattan prices 35% above Brooklyn with only 30% availability | Python · SQL · Pandas · Tableau · SQLite | [GitHub](https://github.com/Lalita-Gupta/nyc-airbnb-analysis) · [Live Dashboard](https://public.tableau.com/views/NYC-Airbnb-Market-Analysis-Lalita-Gupta/NYCAirbnbMarketAnalysisInteractiveDashboard) |
 | **Railway Reservation System** | CSV-backed transaction system — 500 seats, 4 fare classes, coupon-authenticated cancellations, tiered refund logic, auto waitlist promotion. SRP + multiple inheritance across 5-class OOP hierarchy | Python · CSV · OOP | [GitHub](https://github.com/Lalita-Gupta/Railway-Reservation-System) |
 
 ---
