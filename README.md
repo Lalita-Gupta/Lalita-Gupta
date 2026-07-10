@@ -25,8 +25,8 @@
 - 🎲 Favorite thing I've built: a **~1,000,000-game simulations - Monte Carlo study** to statistically prove which AI strategy actually wins at m,n,k Tic-Tac-Toe
 - 📈 Also **deployed** a bearing-fault-detection tool that turns raw sensor signals into fault classifications for IIT Roorkee Virtual Labs — live on Streamlit Cloud
 - 💬 Ask me about: **SQL, Python data pipelines, , algorithms, SQL, simulation, statistical/signal analysis, Tableau dashboards**
-- 📍 New York, NY · Available immediately for Data Analyst roles
-
+- 📍 New York, NY · Available immediately
+  
 ---
 
 ### 🚀 Featured projects
