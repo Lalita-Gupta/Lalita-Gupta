@@ -20,11 +20,11 @@
 
 ### 🙋‍♀️ About me
 
-- 🎓 MS Computer Science @ **NYU Courant** (GPA 3.6) — Database Systems, ML, Computer Vision, Algorithms
-- 🧩 I came up through **competitive programming** (CodeChef, HackerRank 5★, Facebook Hacker Cup qualifier) and still love algorithmic problem-solving
+- 🎓 MS Computer Science @ **NYU Courant** (GPA 3.6) — Algorithms, Database Systems, ML, Computer Vision
+- 🧩 I came up through **competitive programming** (CodeChef, HackerRank 5★, Facebook Hacker Cup 2020 and 2021 qualification round cleared) and still love algorithmic problem-solving
 - 🎲 Favorite thing I've built: a **~1,000,000-game simulations - Monte Carlo study** to statistically prove which AI strategy actually wins at m,n,k Tic-Tac-Toe
 - 📈 Also **deployed** a bearing-fault-detection tool that turns raw sensor signals into fault classifications for IIT Roorkee Virtual Labs — live on Streamlit Cloud
-- 💬 Ask me about: **SQL, Python data pipelines, , algorithms, SQL, simulation, statistical/signal analysis, Tableau dashboards**
+- 💬 Ask me about: **Python data pipelines, algorithms, SQL, simulation, statistical/signal analysis, Tableau dashboards**
 - 📍 New York, NY · Available immediately
   
 ---
